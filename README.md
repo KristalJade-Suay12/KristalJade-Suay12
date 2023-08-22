@@ -16,22 +16,26 @@
 - Eulogio "Amang" Rodriguez Institute of Science and Technology, Nagtahan, Sampaloc Manila
 - Graduation Date: August 2023
 
-
-<!-- Language Usage Chart -->
+<div class="card-group">
+  <div class="card">
+    <!-- Language Usage Chart -->
 <div style="background-color: #1E272E; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" alt="Top Languages">
 </div>
-
-<!-- GitHub Contributions Streak -->
+  </div>
+  <div class="card">
+   <!-- GitHub Contributions Streak -->
 <div style="background-color: #1E272E; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" alt="GitHub Streak">
 </div>
-
-<!-- Stats Graph -->
+  </div>
+  <div class="card">
+    <!-- Stats Graph -->
 <div style="background-color: #1E272E; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph">
 </div>
-
+  </div>
+</div>
 
 ## About Me
 
