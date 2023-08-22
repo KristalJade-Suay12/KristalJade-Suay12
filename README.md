@@ -24,7 +24,22 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12)
 
 <!-- Status -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KristalJade-Suay12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# Repository Stats
+
+## Taste of Quarantine
+- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social)
+- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/tasteofquarantine?style=social)
+- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/tasteofquarantine?style=social)
+
+## Les Quizerable Android
+- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/les_quizerable_andriod?style=social)
+- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social)
+- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/les_quizerable_andriod?style=social)
+
+## First Respo
+- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/first_respo?style=social)
+- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/first_respo?style=social)
+- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social)
 
 ## About Me
 
