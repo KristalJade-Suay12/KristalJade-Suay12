@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-# KRISTA JADE N. SU-AY  <img src="https://github.com/KristalJade-Suay12/KristalJade-Suay12/blob/main/img/profle.png" alt="Profile Picture" width="200" height="200">
+# KRISTA JADE N. SU-AY 
+<img src="https://github.com/KristalJade-Suay12/KristalJade-Suay12/blob/main/img/profle.png" alt="Profile Picture" width="200" height="200">
 
 
 
