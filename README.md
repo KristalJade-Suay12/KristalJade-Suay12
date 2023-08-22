@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-# KRISTA JADE N. SU-AY
+# KRISTA JADE N. SU-AY  ![Profile Picture](https://github.com/KristalJade-Suay12/KristalJade-Suay12/blob/main/img/profile.png)
+
 
 ## About Me
 
