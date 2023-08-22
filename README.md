@@ -26,20 +26,41 @@
 <!-- Status -->
 # Repository Stats
 
-## Taste of Quarantine
-- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/tasteofquarantine?style=social)
-- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/tasteofquarantine?style=social)
+<div align="center">
+  <a href="https://github.com/KristalJade-Suay12/tasteofquarantine">
+    <img align="center" src="https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/KristalJade-Suay12/tasteofquarantine">
+    <img align="center" src="https://img.shields.io/github/forks/KristalJade-Suay12/tasteofquarantine?style=social" alt="Forks">
+  </a>
+  <a href="https://github.com/KristalJade-Suay12/tasteofquarantine">
+    <img align="center" src="https://img.shields.io/github/watchers/KristalJade-Suay12/tasteofquarantine?style=social" alt="Watchers">
+  </a>
+</div>
 
-## Les Quizerable Android
-- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/les_quizerable_andriod?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social)
-- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/les_quizerable_andriod?style=social)
+<div align="center">
+  <a href="https://github.com/KristalJade-Suay12/les_quizerable_andriod">
+    <img align="center" src="https://img.shields.io/github/stars/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/KristalJade-Suay12/les_quizerable_andriod">
+    <img align="center" src="https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Forks">
+  </a>
+  <a href="https://github.com/KristalJade-Suay12/les_quizerable_andriod">
+    <img align="center" src="https://img.shields.io/github/watchers/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Watchers">
+  </a>
+</div>
 
-## First Respo
-- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/first_respo?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/first_respo?style=social)
-- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social)
+<div align="center">
+  <a href="https://github.com/KristalJade-Suay12/first_respo">
+    <img align="center" src="https://img.shields.io/github/stars/KristalJade-Suay12/first_respo?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/KristalJade-Suay12/first_respo">
+    <img align="center" src="https://img.shields.io/github/forks/KristalJade-Suay12/first_respo?style=social" alt="Forks">
+  </a>
+  <a href="https://github.com/KristalJade-Suay12/first_respo">
+    <img align="center" src="https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social" alt="Watchers">
+  </a>
+</div>
 
 ## About Me
 
