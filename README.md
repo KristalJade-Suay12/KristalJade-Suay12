@@ -4,62 +4,59 @@
  
 # KRISTA JADE N. SU-AY
 
-
 - **Email:** suay.kj.bsinfotech@gmail.com
 - **Phone:** 09456597470
 - **GitHub:** https://github.com/KristalJade-Suay12
-<br>
+  <br>
 
 ## Education
 
 **Bachelor of Science in Information Technology**
+
 - Eulogio "Amang" Rodriguez Institute of Science and Technology, Nagtahan, Sampaloc Manila
 - Graduation Date: August 2023
 
-<div class="card-group">
-  <div class="card">
-    <!-- Language Usage Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" alt="Top Languages">
-  </div>
-  <div class="card">
-   <!-- GitHub Contributions Streak -->
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" alt="GitHub Streak">
-  </div>
-  <div class="card">
-    <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph">
-
-  </div>
+<div class="card w-100">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" class="img-fluid rounded-start" alt="Top Languages">
+        </div>
+        <div class="col-md-4">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" class="img-fluid rounded-start" alt="GitHub Streaks">
+        </div>
+        <div class="col-md-4">
+            <img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" class="img-fluid rounded-start" alt="Stats Graph">
+        </div>
+    </div>
 </div>
 
 ## About Me
 
-      Greetings! I'm Kristal Jade N. Su-ay, a 22-year-old recent graduate, holding a Bachelor of Science in Information Technology 
+      Greetings! I'm Kristal Jade N. Su-ay, a 22-year-old recent graduate, holding a Bachelor of Science in Information Technology
       from the esteemed Eulogio "Amang" Rodriguez Institute of Science and Technology.
       My educational journey culminated in August 2023, propelling me into the dynamic world of IT
-      My academic path has been an exploration of the multifaceted IT landscape, encompassing programming, networking, and systems analysis. 
+      My academic path has been an exploration of the multifaceted IT landscape, encompassing programming, networking, and systems analysis.
       Yet, my journey is distinguished by hands-on projects and real-world experience that have nurtured my growth.
-      
-      In my second year of college, I led the charge as the main programmer in the creation of a captivating Food Recipe website. 
-      Through the adept use of HTML, JavaScript, and CSS, I crafted a digital space that celebrates the art of cooking. 
+
+      In my second year of college, I led the charge as the main programmer in the creation of a captivating Food Recipe website.
+      Through the adept use of HTML, JavaScript, and CSS, I crafted a digital space that celebrates the art of cooking.
       This venture molded my creative thinking and problem-solving skills, solidifying my grasp on web development intricacies.
-      
-      Building on that momentum, my third year brought the opportunity to lead an educational game project on the Android platform. 
-      Using Java, I orchestrated a fusion of learning and play, contributing to the realm of gamified education. 
+
+      Building on that momentum, my third year brought the opportunity to lead an educational game project on the Android platform.
+      Using Java, I orchestrated a fusion of learning and play, contributing to the realm of gamified education.
       This endeavor honed not only my programming prowess but also my ability to guide and inspire a collaborative team.
-      
-      Venturing into my fourth year, I embraced a pivotal role during my On-the-job Training. 
-      For a span of 500 hours at PHRWE, I took on the mantle of a web developer and Management Information Systems (MIS) intern. 
-      This immersive experience thrust me into the professional sphere, allowing me to apply my skills and knowledge to real-world challenges. 
+
+      Venturing into my fourth year, I embraced a pivotal role during my On-the-job Training.
+      For a span of 500 hours at PHRWE, I took on the mantle of a web developer and Management Information Systems (MIS) intern.
+      This immersive experience thrust me into the professional sphere, allowing me to apply my skills and knowledge to real-world challenges.
       As a result, I refined my technical acumen and gained a deeper understanding of the IT industry's inner workings.
-      
-      Amidst my pursuits, I find solace in the captivating narratives of TV series like "Teen Wolf" and "The 100," 
-      and my curiosity extends to the world of anime. Recently, I embarked on the enthralling journey of the light 
+
+      Amidst my pursuits, I find solace in the captivating narratives of TV series like "Teen Wolf" and "The 100,"
+      and my curiosity extends to the world of anime. Recently, I embarked on the enthralling journey of the light
       novel "Global Game: AFK in the Zombie Apocalypse Game," a testament to my affection for gaming and the supernatural.
-      
-      Stepping into the post-graduation phase, I carry with me a potent blend of knowledge, passion, and adaptability. 
-      My aspiration is to contribute my refined skills to the ever-evolving IT domain, whether it entails coding innovation, 
+
+      Stepping into the post-graduation phase, I carry with me a potent blend of knowledge, passion, and adaptability.
+      My aspiration is to contribute my refined skills to the ever-evolving IT domain, whether it entails coding innovation,
       strategic problem-solving, or embracing emerging technologies.
 
 <!--
@@ -116,6 +113,7 @@
 
 ---
 -->
+
 Feel free to modify and expand on each section based on your own experiences and preferences. Remember to keep the content concise and relevant to the position you're applying for. Good luck with your resume!
 
 <!--
