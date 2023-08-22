@@ -15,7 +15,18 @@
 **Bachelor of Science in Information Technology**
 - Eulogio "Amang" Rodriguez Institute of Science and Technology, Nagtahan, Sampaloc Manila
 - Graduation Date: August 2023
-  
+  # Kristal Jade Suay
+
+<!-- Language Usage Chart -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact)
+
+<!-- GitHub Contributions Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12)
+
+<!-- Status Badge -->
+![Status](https://img.shields.io/badge/status-online-brightgreen)
+
+
 ## About Me
 
       Greetings! I'm Kristal Jade N. Su-ay, a 22-year-old recent graduate, holding a Bachelor of Science in Information Technology 
