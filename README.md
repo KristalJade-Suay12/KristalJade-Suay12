@@ -15,18 +15,15 @@
 
 - Eulogio "Amang" Rodriguez Institute of Science and Technology, Nagtahan, Sampaloc Manila
 - Graduation Date: August 2023
-
-<div class="card w-100">
-    <div class="row g-0">
-        <div class="col-md-4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" class="img-fluid rounded-start" alt="Top Languages">
-        </div>
-        <div class="col-md-4">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" class="img-fluid rounded-start" alt="GitHub Streaks">
-        </div>
-        <div class="col-md-4">
-            <img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" class="img-fluid rounded-start" alt="Stats Graph">
-        </div>
+<div class="card w-100" style="display: flex; flex-direction: row; width: 100%; overflow: hidden;">
+    <div class="col-md-4" style="width: 33.33%; display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" class="img-fluid rounded-start" alt="Top Languages">
+    </div>
+    <div class="col-md-4" style="width: 33.33%; display: inline-block;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" class="img-fluid rounded-start" alt="GitHub Streaks">
+    </div>
+    <div class="col-md-4" style="width: 33.33%; display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" class="img-fluid rounded-start" alt="Stats Graph">
     </div>
 </div>
 
