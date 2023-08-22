@@ -27,18 +27,24 @@
 # Repository Stats
 
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; background-color: grey;">
     <div style="font-weight: bold;">Taste of Quarantine</div>
     <img src="https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social" alt="Stars">
+   <img src="https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social" alt="Forks">
+   <img src="https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social" alt="Watchers">
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center;background-color: grey;">
     <div style="font-weight: bold;">Les Quizerable Android</div>
+    <img src="https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Stars">
     <img src="https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Watchers">
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; background-color: grey">
     <div style="font-weight: bold;">First Respo</div>
+    <img src="https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social" alt="Forks">
     <img src="https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social" alt="Watchers">
   </div>
 </div>
