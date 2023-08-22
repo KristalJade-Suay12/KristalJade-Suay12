@@ -1,18 +1,21 @@
 ## Hi there 👋
+
  <p align="center"><img src="https://github.com/KristalJade-Suay12/KristalJade-Suay12/blob/main/img/profle.png" alt="Profile Picture" width="200" height="200" align="right"></p>
  
 # KRISTA JADE N. SU-AY
 
 ## Contact Information
+
 - **Email:** suay.kj.bsinfotech@gmail.com
 - **Phone:** 09456597470
 - **GitHub:** https://github.com/KristalJade-Suay12
 
 ## Education
+
 **Bachelor of Science in Information Technology**
 - Eulogio "Amang" Rodriguez Institute of Science and Technology, Nagtahan, Sampaloc Manila
 - Graduation Date: August 2023
-- 
+  
 ## About Me
 
       Greetings! I'm Kristal Jade N. Su-ay, a 22-year-old recent graduate, holding a Bachelor of Science in Information Technology 
