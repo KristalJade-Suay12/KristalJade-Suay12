@@ -3,6 +3,7 @@
  <p align="center"><img src="https://github.com/KristalJade-Suay12/KristalJade-Suay12/blob/main/img/profle.png" alt="Profile Picture" width="200" height="200" align="right"></p>
  
 # KRISTA JADE N. SU-AY
+<br>
 
 ## Contact Information
 
