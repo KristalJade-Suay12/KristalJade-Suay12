@@ -15,34 +15,22 @@
 **Bachelor of Science in Information Technology**
 - Eulogio "Amang" Rodriguez Institute of Science and Technology, Nagtahan, Sampaloc Manila
 - Graduation Date: August 2023
-  # Kristal Jade Suay
+
 
 <!-- Language Usage Chart -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact)
+<div style="background-color: #1E272E; padding: 10px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" alt="Top Languages">
+</div>
 
 <!-- GitHub Contributions Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12)
+<div style="background-color: #1E272E; padding: 10px; border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" alt="GitHub Streak">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-<!-- Status -->
-# Repository Stats
-
-## Taste of Quarantine
-- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/tasteofquarantine?style=social)
-- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/tasteofquarantine?style=social)
-
-## Les Quizerable Android
-- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/les_quizerable_andriod?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social)
-- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/les_quizerable_andriod?style=social)
-
-## First Respo
-- Stars: ![Stars](https://img.shields.io/github/stars/KristalJade-Suay12/first_respo?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/KristalJade-Suay12/first_respo?style=social)
-- Watchers: ![Watchers](https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social)
-
+<!-- Stats Graph -->
+<div style="background-color: #1E272E; padding: 10px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph">
+</div>
 
 
 ## About Me
