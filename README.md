@@ -24,8 +24,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12)
 
 <!-- Status -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&show_icons=true&theme=radical)
-
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KristalJade-Suay12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## About Me
 
