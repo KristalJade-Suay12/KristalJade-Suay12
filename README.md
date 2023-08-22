@@ -24,24 +24,22 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12)
 
 <!-- Status -->
-# Repository Status
-
 # Repository Stats
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social" alt="Stars" style="display: block; margin: 0 auto;">
-      <span style="display: block;">Taste of Quarantine</span>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/github/forks/KristalJade-Suay12/tasteofquarantine?style=social" alt="Forks" style="display: block; margin: 0 auto;">
-      <span style="display: block;">Les Quizerable Android</span>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/github/watchers/KristalJade-Suay12/tasteofquarantine?style=social" alt="Watchers" style="display: block; margin: 0 auto;">
-      <span style="display: block;">First Respo</span>
-    </div>
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; display: flex; justify-content: space-between;">
+  <div style="flex: 1; text-align: center;">
+    <div style="font-weight: bold;">Taste of Quarantine</div>
+    <img src="https://img.shields.io/github/stars/KristalJade-Suay12/tasteofquarantine?style=social" alt="Stars">
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <div style="font-weight: bold;">Les Quizerable Android</div>
+    <img src="https://img.shields.io/github/forks/KristalJade-Suay12/les_quizerable_andriod?style=social" alt="Forks">
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <div style="font-weight: bold;">First Respo</div>
+    <img src="https://img.shields.io/github/watchers/KristalJade-Suay12/first_respo?style=social" alt="Watchers">
   </div>
 </div>
 
