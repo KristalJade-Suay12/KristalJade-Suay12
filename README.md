@@ -23,8 +23,8 @@
 <!-- GitHub Contributions Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12)
 
-<!-- Status Badge -->
-![Status](https://img.shields.io/badge/status-online-brightgreen)
+<!-- Status -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&show_icons=true&theme=radical)
 
 
 ## About Me
