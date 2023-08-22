@@ -3,14 +3,12 @@
  <p align="center"><img src="https://github.com/KristalJade-Suay12/KristalJade-Suay12/blob/main/img/profle.png" alt="Profile Picture" width="200" height="200" align="right"></p>
  
 # KRISTA JADE N. SU-AY
-<br>
 
-## Contact Information
 
 - **Email:** suay.kj.bsinfotech@gmail.com
 - **Phone:** 09456597470
 - **GitHub:** https://github.com/KristalJade-Suay12
-
+<br>
 ## Education
 
 **Bachelor of Science in Information Technology**
