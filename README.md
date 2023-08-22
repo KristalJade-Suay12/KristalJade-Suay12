@@ -37,8 +37,9 @@
       This immersive experience thrust me into the professional sphere, allowing me to apply my skills and knowledge to real-world challenges. 
       As a result, I refined my technical acumen and gained a deeper understanding of the IT industry's inner workings.
       
-      Amidst my pursuits, I find solace in the captivating narratives of TV series like "Teen Wolf" and "The 100," and my curiosity extends to the world of anime. 
-      Recently, I embarked on the enthralling journey of the light novel "Global Game: AFK in the Zombie Apocalypse Game," a testament to my affection for gaming and the supernatural.
+      Amidst my pursuits, I find solace in the captivating narratives of TV series like "Teen Wolf" and "The 100," 
+      and my curiosity extends to the world of anime. Recently, I embarked on the enthralling journey of the light 
+      novel "Global Game: AFK in the Zombie Apocalypse Game," a testament to my affection for gaming and the supernatural.
       
       Stepping into the post-graduation phase, I carry with me a potent blend of knowledge, passion, and adaptability. 
       My aspiration is to contribute my refined skills to the ever-evolving IT domain, whether it entails coding innovation, 
