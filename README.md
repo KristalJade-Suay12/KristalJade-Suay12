@@ -18,35 +18,6 @@
 <div style="width: 33.33%; display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristalJade-Suay12&layout=compact" class="img-fluid rounded-start" alt="Top Languages"></div><div style="width: 33.33%; display: inline-block;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KristalJade-Suay12" class="img-fluid rounded-start" alt="GitHub Streaks"></div><div  style="width: 33.33%; display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=KristalJade-Suay12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" class="img-fluid rounded-start" alt="Stats Graph"></div>
 
 
-## About Me
-
-      Greetings! I'm Kristal Jade N. Su-ay, a 22-year-old recent graduate, holding a Bachelor of Science in Information Technology
-      from the esteemed Eulogio "Amang" Rodriguez Institute of Science and Technology.
-      My educational journey culminated in August 2023, propelling me into the dynamic world of IT
-      My academic path has been an exploration of the multifaceted IT landscape, encompassing programming, networking, and systems analysis.
-      Yet, my journey is distinguished by hands-on projects and real-world experience that have nurtured my growth.
-
-      In my second year of college, I led the charge as the main programmer in the creation of a captivating Food Recipe website.
-      Through the adept use of HTML, JavaScript, and CSS, I crafted a digital space that celebrates the art of cooking.
-      This venture molded my creative thinking and problem-solving skills, solidifying my grasp on web development intricacies.
-
-      Building on that momentum, my third year brought the opportunity to lead an educational game project on the Android platform.
-      Using Java, I orchestrated a fusion of learning and play, contributing to the realm of gamified education.
-      This endeavor honed not only my programming prowess but also my ability to guide and inspire a collaborative team.
-
-      Venturing into my fourth year, I embraced a pivotal role during my On-the-job Training.
-      For a span of 500 hours at PHRWE, I took on the mantle of a web developer and Management Information Systems (MIS) intern.
-      This immersive experience thrust me into the professional sphere, allowing me to apply my skills and knowledge to real-world challenges.
-      As a result, I refined my technical acumen and gained a deeper understanding of the IT industry's inner workings.
-
-      Amidst my pursuits, I find solace in the captivating narratives of TV series like "Teen Wolf" and "The 100,"
-      and my curiosity extends to the world of anime. Recently, I embarked on the enthralling journey of the light
-      novel "Global Game: AFK in the Zombie Apocalypse Game," a testament to my affection for gaming and the supernatural.
-
-      Stepping into the post-graduation phase, I carry with me a potent blend of knowledge, passion, and adaptability.
-      My aspiration is to contribute my refined skills to the ever-evolving IT domain, whether it entails coding innovation,
-      strategic problem-solving, or embracing emerging technologies.
-
 <!--
 ## Experience
 **Job Title**
